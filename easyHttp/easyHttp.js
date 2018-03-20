@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */
+
 function easyHTTP() {
   this.http = new XMLHttpRequest();
 }
